@@ -1,0 +1,10 @@
+WHY and WHAT?
+1) A development enviroment and playground for UI components.
+2) Create components independently.
+3) Showcase those components interactively in an isolated development enviroment.
+
+PRACTICALLY:
+a) Ability to view the different components that have already been developed.
+b) View what are the different props that those developed components accept.
+c) Ability to visually showcase those components to your stake holders for feedback.
+d) Dynamically change props , accessibility score.
