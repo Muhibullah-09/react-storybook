@@ -14,3 +14,8 @@ a) Ability to view the different components that have already been developed.
 b) View what are the different props that those developed components accept.
 c) Ability to visually showcase those components to your stake holders for feedback.
 d) Dynamically change props , accessibility score.
+
+//Here I define the flow when we run command 'yarn storybook'.
+
+1) yarn storybook command goes to main.js file which is in .storybook forlder to check the
+pattern and pickup the appropriate stories/It sees any file with .stories.js has to be picked up.
